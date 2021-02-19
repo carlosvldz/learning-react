@@ -5,7 +5,7 @@ import Layout from '../components/Layout';
 import Home from '../pages/Home';
 import BadgeNew from '../pages/BadgeNew';
 import Badges from '../pages/Badges';
-import BadgeDetails from '../pages/BadgeDetails';
+import BadgeDetails from '../pages/BadgeDetailsContainer';
 import BadgeEdit from '../pages/BadgeEdit';
 import NotFound from '../pages/NotFound';
 
